@@ -3,5 +3,14 @@
 @tailwind utilities;
 
 body{
-  background-color: blue;
+  background-color: red;
+}
+
+.container{
+  margin: 0 auto 0 auto;
+}
+
+
+.nav__links {
+	margin-right: 40px;
 }
